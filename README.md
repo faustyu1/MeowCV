@@ -36,7 +36,7 @@ git clone https://github.com/reinesana/MeowCV.git
 ```
 
 ### 2. Install dependencies
-Python **3.9 – 3.12** required (tested on Python 3.11.7). Python **3.13+** is not supported for `mediapipe==0.10.14`.
+Python **3.9 – 3.13** required (tested on Python 3.13). 
 ```bash
 pip install -r requirements.txt
 ```
@@ -83,4 +83,4 @@ squinting_threshold = 0.020  # softer glare
 
 Have fun 🐱💻
 
-MIT License © 2026 Shana Nursoo  
+MIT License © 2026 Shana Nursoo  and faustyu

@@ -24,3 +24,5 @@ ENV/
 # Logs
 logs/
 *.log
+
+/photos
